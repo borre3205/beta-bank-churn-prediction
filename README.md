@@ -3,7 +3,7 @@
 ## English
 
 ### Problem
-Beta Bank customers are leaving little by little, every month. The bank found it's cheaper to save existing customers rather than to attract new ones. This project builds a classification model that predicts whether a customer will leave the bank soon, based on their transactional and demographic data.
+Beta Bank customers are leaving little by little, every month. The bank found it's cheaper to save existing customers rather than to attract new ones. This project builds a classification model that predicts whether a customer will leave the bank soon, based on their transactional and demographic data. Data coming from TripleTen Data Science bootcamp (not shared in the repository)
 
 ### Approach
 - Performed exploratory data analysis and identified class imbalance in the target variable (customers who churned vs. those who stayed).
@@ -23,7 +23,7 @@ Python | pandas | scikit-learn | matplotlib | Jupyter Notebook
 ## Español
 
 ### Problema
-Los clientes de Beta Bank se están yendo poco a poco, cada mes. El banco descubrió que resulta más barato retener a los clientes existentes que atraer nuevos. Este proyecto construye un modelo de clasificación que predice si un cliente abandonará el banco pronto, basado en sus datos transaccionales y demográficos.
+Los clientes de Beta Bank se están yendo poco a poco, cada mes. El banco descubrió que resulta más barato retener a los clientes existentes que atraer nuevos. Este proyecto construye un modelo de clasificación que predice si un cliente abandonará el banco pronto, basado en sus datos transaccionales y demográficos. El dataset es parte del bootcamp de ciencia de datos de TripleTen (no se comparte en el repositorio)
 
 ### Enfoque
 - Se realizó un análisis exploratorio de datos y se identificó un desbalance de clases en la variable objetivo (clientes que se fueron vs. los que permanecieron).
